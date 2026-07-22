@@ -11,13 +11,12 @@
 <br/>
 
 ## 👨‍💻 About Me
-
-반도체 설계 및 검증 엔지니어를 목표로 성장하고 있는 **안정현**입니다. 
-안정적이고 효율적인 디지털 하드웨어 시스템을 설계하고, 복잡한 SoC 아키텍처를 꼼꼼하게 검증하는 일에 깊은 관심을 가지고 있습니다. 특히 **RTL 설계, AMBA Bus 프로토콜, 그리고 UVM을 활용한 검증**에 주력하고 있습니다.
-
-- 🌱 **Currently Learning:** Advanced UVM techniques, PCIe Protocol, AMBA AXI4
-- 👯 **Looking to collaborate on:** Open-source RISC-V projects
-- 💬 **Ask me about:** Verilog/SystemVerilog, UVM, Digital Logic Design
+-  대한상공회의소 On_Device AI 반도체 설계 과정 수료(KCCIST)
+-  **Verilog / SystemVerilog 기반 RTL 설계 및 검증**
+- RISC-V RV32I Multi-Cycle CPU 설계
+- UART, SPI, I2C 시리얼 통신 프로토콜 설계 및 검증 경험
+- AMBA 프로토콜: AXI4-Lite 및 APB bus 통신 프로토콜 설계 및 검증 경험
+- OV7670 카메라 SCCB 제어 및 VGA 영상 출력 파이프라인 구현
 
 ---
 
