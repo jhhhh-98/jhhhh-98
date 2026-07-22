@@ -1,5 +1,5 @@
 <!-- Header / Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Jeonghyun%20Ahn!&fontSize=50&fontAlignY=35&desc=Aspiring%20Semiconductor%20Design%20&%20Verification%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=%20Jeonghyun%20Ahn&fontSize=50&fontAlignY=35&desc=Aspiring%20Semiconductor%20Design%20&%20Verification%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Effect for Roles -->
 <div align="center">
