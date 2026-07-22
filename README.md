@@ -1,8 +1,8 @@
-# Hi there, I'm [본인 이름/닉네임 입력] 👋
+# Hi there, I'm [안정현] 👋
 
 ### 👨‍💻 Aspiring Semiconductor Design & Verification Engineer
 
-반도체 설계 및 검증 엔지니어를 목표로 성장하고 있습니다. 안정적이고 효율적인 디지털 하드웨어 시스템을 설계하고, 복잡한 SoC 아키텍처를 꼼꼼하게 검증하는 일에 깊은 관심을 가지고 있습니다. 특히 RTL 설계, AMBA Bus 프로토콜, 그리고 UVM(Universal Verification Methodology)을 활용한 검증에 주력하고 있습니다.
+반도체 설계 및 검증 엔지니어를 목표로 성장하고 있습니다. 안정적이고 효율적인 디지털 하드웨어 시스템을 설계하고, 복잡한 SoC 아키텍처를 꼼꼼하게 검증하는 일에 깊은 관심을 가지고 있습니다. 특히 RTL 설계, AMBA Bus 프로토콜, 그리고 UVM을 활용한 검증에 주력하고 있습니다.
 
 ## 🛠️ Tech Stack & Skills
 
