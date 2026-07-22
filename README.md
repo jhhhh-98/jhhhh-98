@@ -1,5 +1,5 @@
-<!-- Header / Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=162850&height=250&section=header&text=%20Jeonghyun%20Ahn&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Aspiring%20Semiconductor%20Design%20&%20Verification%20Engineer&descAlignY=55&descAlign=50&descSize=20&descColor=ffffff" width="100%"/>
+<!-- Header -->
+<h1 align="center">Jeonghyun Ahn</h1>
 
 <!-- Typing Effect for Roles -->
 <div align="center">
@@ -8,11 +8,19 @@
   </a>
 </div>
 
+<!-- Visitors & Contact Badges -->
+<div align="center">
+  <br/><br/>
+  <a href="mailto:본인이메일@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
 <br/>
 
 ## 👨‍💻 About Me
--  대한상공회의소 On_Device AI 반도체 설계 과정 수료(KCCIST)
--  **Verilog / SystemVerilog 기반 RTL 설계 및 검증**
+- 대한상공회의소 On_Device AI 반도체 설계 과정 수료(KCCIST)
+- **Verilog / SystemVerilog 기반 RTL 설계 및 검증**
 - RISC-V RV32I Multi-Cycle CPU 설계
 - UART, SPI, I2C 시리얼 통신 프로토콜 설계 및 검증 경험
 - AMBA 프로토콜: AXI4-Lite 및 APB bus 통신 프로토콜 설계 및 검증 경험
@@ -60,35 +68,11 @@
 
 ## 📈 GitHub Stats & Activity
 
-> *Note: 계정 생성 초기이거나 커밋이 아직 많지 않다면 통계가 보이지 않을 수 있습니다. 꾸준히 활동하시면 멋진 통계가 나타납니다!*
-
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jhhhh-98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="jhhhh-98's github stats" width="48%" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhhhh-98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
+ 
 
 <div align="center">
   <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhhhh-98&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <!-- 아래 href의 이메일 주소와 링크드인 주소를 실제 주소로 변경해주세요 -->
-  <a href="mailto:본인이메일@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/본인링크드인주소">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<!-- 방문자 수 카운터 -->
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhhhh-98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
 </div>
