@@ -61,9 +61,14 @@
 
 ## 📈 GitHub Stats & Activity
 
-> *Note: 계정 생성 초기이거나 커밋이 아직 많지 않다면 빈 공간으로 보일 수 있습니다. 꾸준히 커밋을 하시면 멋진 통계가 나타납니다!*
+> *Note: 계정 생성 초기이거나 커밋이 아직 많지 않다면 통계가 보이지 않을 수 있습니다. 꾸준히 활동하시면 멋진 통계가 나타납니다!*
 
-
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jhhhh-98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="jhhhh-98's github stats" width="48%" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhhhh-98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
 
 <div align="center">
   <!-- GitHub Streak Card -->
@@ -79,4 +84,12 @@
   <a href="mailto:본인이메일@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://linkedin.com/in/본인링크드인주소">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
+<!-- 방문자 수 카운터 -->
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhhhh-98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
+</div>
