@@ -63,6 +63,7 @@
 | 🛡️ **[UVM_SPI_I2C](https://github.com/jhhhh-98/UVM_SPI_I2C)** | SPI 및 I2C 프로토콜을 위한 UVM 기반 검증 환경 (VE) 구축 | SystemVerilog, UVM |
 | 🔌 **[AXI4-Lite_SPI_I2C](https://github.com/jhhhh-98/AXI4-Lite_SPI_I2C)** | AMBA AXI4-Lite 버스 프로토콜을 적용한 SPI & I2C 인터페이스 설계 | Verilog |
 | 🛡️ **[UVM_UART](https://github.com/jhhhh-98/UVM_UART)** | UART 통신을 위한 UVM 기반 검증 환경 구축 및 테스트 | SystemVerilog, UVM |
+| 📷 **[OV7670_SCCB_Cam](https://github.com/jhhhh-98/OV7670_SCCB_Cam)** | OV7670 카메라 기반 실시간 영상 캡처 및 VGA 디스플레이 출력 시스템 설계 | SystemVerilog, FPGA |
 
 ---
 
@@ -70,7 +71,7 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
- 
+</div>
 
 <div align="center">
   <!-- GitHub Streak Card -->
